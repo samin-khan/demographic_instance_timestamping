@@ -1,0 +1,3 @@
+0 african_american
+1 caucasian
+2 african_american_and_caucasian

@@ -1,0 +1,52 @@
+filename,race,gender
+friends1.png,['Black'],['Male']
+friends2.png,['Black'],['Male']
+friends3.png,['Black'],['Male']
+friends4.jpeg,['Black'],['Male']
+friends5.png,['Black'],['Male']
+friends6.png,['Black'],['Female']
+friends7.png,['Black'],['Male']
+friends8.jpeg,['White'],['Male']
+friends9.png,['White'],['Female']
+friends10.jpeg,"['White','White','White']","['Female','Female','Female']"
+friends11.jpeg,"['White','White']","['Female','Female']"
+friends12.jpeg,['White'],['Male']
+friends13.png,['White'],['Male']
+friends14.png,['White'],['Male']
+friends15.jpeg,"['White','White','White']","['Male','Male','Male']"
+friends16.png,"['White','White','White','White','White','White']","['Female','Female','Female','Male','Male','Male']"
+friends17.jpeg,"['White','Black']","['Male','Male']"
+friends18.jpeg,"['White','Black']","['Male','Female']"
+friends19.jpeg,"['White','White','Black']","['Female','Female','Male']"
+friends20.jpeg,"['White','Black']","['Male','Female']"
+friends21.jpeg,"['White','Black']","['Male','Female']"
+mr_mrs_smith1.png,"['Black','Asian']","['Male','Female']"
+mr_mrs_smith1.jpeg,"['Black','Black']","['Male','Female']"
+truelove1.png,"['White','Black']","['Female','Male']"
+jane1.png,"['Latino_Hispanic','Latino_Hispanic']","['Female','Male']"
+beef1.jpeg,['East Asian'],['Male']
+beef2.png,"['East Asian','East Asian']","['Female','Male']"
+insecure1.png,"['Black','Black']","['Female','Female']"
+never1.jpeg,"['East Asian','Black','Indian']","['Female','Female','Female']"
+office1.jpeg,['Indian'],['Female']
+greys1.png,['East Asian'],['Female']
+modern1.jpeg,"['Latino_Hispanic','Latino_Hispanic']","['Female','Male']"
+quantico1.jpeg,['Indian'],['Female']
+betty1.png,['Latino_Hispanic'],['Female']
+hawaii1.jpeg,['Latino_Hispanic'],['Male']
+scream1.jpeg,['Latino_Hispanic'],['Female']
+fresh1.png,"['East Asian','East Asian']","['Female','Male']"
+fresh2.jpeg,"['East Asian','East Asian']","['Female','Male']"
+superstore1.jpeg,['Latino_Hispanic'],['Female']
+mandalorian1.jpeg,['Latino_Hispanic'],['Male']
+nightof.png,['Indian'],['Male']
+bigbang1.jpeg,['Indian'],['Male']
+got1.png,['Indian'],['Female']
+got2.jpeg,"['Latino_Hispanic','Indian']","['Male','Female']"
+lost1.jpeg,['East Asian'],['Male']
+nikita1.png,['East Asian'],['Female']
+parks1.jpeg,['Latino_Hispanic'],['Female']
+er1.png,['Indian'],['Female']
+law1.png,['Latino_Hispanic'],['Male']
+narcos1.png,['Latino_Hispanic'],['Male']
+never2.png,['Indian'],['Female']
